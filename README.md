@@ -104,6 +104,15 @@ except ConnectionRefusedError:
 except Exception as e:
     print(f"An error occurred: {e}")
 ```
+## Output
+
+Server : 
+
+![alt text](<Screenshot 2025-05-20 111006.png>)
+
+Client : 
+
+![alt text](<Screenshot 2025-05-20 111013.png>)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
